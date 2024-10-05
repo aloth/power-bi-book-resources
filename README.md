@@ -8,7 +8,7 @@ This repository contains supplementary material for the book "Teach Yourself VIS
 
 "Teach Yourself VISUALLY Power BI" is a comprehensive guide to mastering Power BI, covering everything from the basics of data visualization to advanced analytics techniques. Whether you're a beginner or an experienced user, this book provides valuable insights and practical examples to enhance your Power BI skills.
 
-For more information about the book, visit the [official book website](https://www.alexloth.com/power-bi-book).
+For more information about the book, visit the [official book website](https://alexloth.com/power-bi-book).
 
 ## Repository Contents
 
@@ -36,7 +36,7 @@ Although this is primarily a resource repository, we welcome contributions that 
 
 ## Contact
 
-For questions about the book or this repository, please open an [issue](https://github.com/aloth/power-bi-book-resources/issues) or contact Alexander Loth via [his website](https://www.alexloth.com).
+For questions about the book or this repository, please open an [issue](https://github.com/aloth/power-bi-book-resources/issues) or contact Alexander Loth via [his website](https://alexloth.com).
 
 ---
 
