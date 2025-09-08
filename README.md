@@ -66,6 +66,8 @@ power-bi-book-resources/
 ├─ Data Sets/
 │  ├─ Financial Sample.xlsx
 │  └─ Retail Analysis Sample.pbix
+├─ Chapter 1/
+├─ Chapter 2/
 ├─ Chapter 3/
 ├─ Chapter 4/
 ├─ Chapter 5/
@@ -84,74 +86,77 @@ power-bi-book-resources/
 <details>
 <summary><strong>Click to expand the full mapping</strong></summary>
 
-| Chapter | Key Task / Section                              | Corresponding File(s)                                                        |
-| :------ | :---------------------------------------------- | :--------------------------------------------------------------------------- |
-| 📂 [Data](./Data%20Sets/) | General data sets used across multiple chapters | `Data Sets/Financial Sample.xlsx`<br>`Data Sets/Retail Analysis Sample.pbix` |
-| 🔌 [2](./Chapter%202/) | *Connecting Power BI to Your Data*              | Uses `Financial Sample.xlsx` (no specific start `.pbix`)                     |
-| 🧹 [3](./Chapter%203/) | *Remove Duplicate Values*                       | `Chapter 3 - Remove Duplicates.pbix`                                         |
-|        | *Replace Values in a Column*                    | `Chapter 3 - Replace Values.pbix`                                            |
-|        | *Split a Column Using a Delimiter*              | `Chapter 3 - Split Column.pbix`                                              |
-|        | *Group Data*                                    | `Chapter 3 - Group Data.pbix`                                                |
-|        | *Add a Calculated Column*                       | `Chapter 3 - Calculated Column.pbix`                                         |
-|        | *Add an Index Column*                           | `Chapter 3 - Index Column.pbix`                                              |
-| 🏗️ [4](./Chapter%204/) | *Create Dimension Tables*                       | `Chapter 4 - Dimension Tables.pbix`                                          |
-|        | *Create a Hierarchical Schema*                  | `Chapter 4 - Hierarchical Schema.pbix`                                       |
-| 📊 [5](./Chapter%205/) | *Create a Bar Chart*                            | `Chapter 5 - Bar Chart.pbix`                                                 |
-|        | *Apply Filters to Visuals*                      | `Chapter 5 - Apply Filters.pbix`                                             |
-|        | *Format the Y-Axis of a Bar Chart*              | `Chapter 5 - Format Y-Axis.pbix`                                             |
-|        | *Format the X-Axis of a Bar Chart*              | `Chapter 5 - Format X-Axis.pbix`                                             |
-|        | *Add and Format the Data Category*              | `Chapter 5 - Data Category.pbix`                                             |
-|        | *Move a Bar Chart's Legend*                     | `Chapter 5 - Bar Legend.pbix`                                                |
-|        | *Add a Zoom Slider and Update Bar Colors*       | `Chapter 5 - Zoom Colors.pbix`                                               |
-|        | *Add Data Labels to a Bar Chart*                | `Chapter 5 - Data Labels.pbix`                                               |
-|        | *Add an Image to the Plot Area*                 | `Chapter 5 - Plot Image.pbix`                                                |
-|        | *Create a Line or Area Chart*                   | `Chapter 5 - Area Chart.pbix`                                                |
-|        | *Format the Axes of a Line/Area Chart*          | `Chapter 5 - Area Axes.pbix`                                                 |
-|        | *Add a Legend to a Line/Area Chart*             | `Chapter 5 - Area Legend.pbix`                                               |
-|        | *Move Legend and Add Gridlines*                 | `Chapter 5 - Area Gridlines.pbix`                                            |
-|        | *Add Zoom Slider and Steps*                     | `Chapter 5 - Area Zoom.pbix`                                                 |
-|        | *Add Data Markers and Labels*                   | `Chapter 5 - Area Markers.pbix`                                              |
-|        | *Format Data Labels of a Line/Area Chart*       | `Chapter 5 - Area Labels.pbix`                                               |
-| 📐 [6](./Chapter%206/) | *Create and Format a Gauge Chart*               | `Chapter 6 - Gauge.pbix`                                                     |
-|        | *Create and Format a KPI Visual*                | `Chapter 6 - KPI.pbix`                                                       |
-|        | *Create a Matrix Visual*                        | `Chapter 6 - Matrix.pbix`                                                    |
-|        | *Format a Matrix Visual*                        | `Chapter 6 - Matrix Format.pbix`                                             |
-|        | *Format Values and Column Headers*              | `Chapter 6 - Matrix Values.pbix`                                             |
-|        | *Format Row Headers*                            | `Chapter 6 - Matrix Rows.pbix`                                               |
-|        | *Format Subtotals and Grand Totals*             | `Chapter 6 - Matrix Totals.pbix`                                             |
-|        | *Format Specific Column and Cell Elements*      | `Chapter 6 - Matrix Elements.pbix`                                           |
-|        | *Create a Waterfall Chart*                      | `Chapter 6 - Waterfall.pbix`                                                 |
-|        | *Format a Waterfall Chart*                      | `Chapter 6 - Waterfall Format.pbix`                                          |
-|        | *Format X-Axis and Legend*                      | `Chapter 6 - Waterfall Legend.pbix`                                          |
-|        | *Add and Format Breakdowns*                     | `Chapter 6 - Waterfall Breakdown.pbix`                                       |
-|        | *Create, Format, and Label a Funnel Chart*      | `Chapter 6 - Funnel.pbix`                                                    |
-|        | *Create a Pie or Donut Chart*                   | `Chapter 6 - Pie.pbix`                                                       |
-|        | *Format a Pie or Donut Chart*                   | `Chapter 6 - Pie Format.pbix`                                                |
-|        | *Create a Treemap Chart*                        | `Chapter 6 - Treemap.pbix`                                                   |
-|        | *Format a Treemap Chart*                        | `Chapter 6 - Treemap Format.pbix`                                            |
-| 🗺️ [7](./Chapter%207/) | *Create a Proportional Symbol Map*              | `Chapter 7 - Proportional.pbix`                                              |
-|        | *Create a Choropleth Map*                       | `Chapter 7 - Choropleth.pbix`                                                |
-|        | *Create an Isarithmic Map*                      | `Chapter 7 - Isarithmic.pbix`                                                |
-|        | *Create a Skyscraper Map*                       | `Chapter 7 - Skyscraper.pbix`                                                |
-| 🧮 [8](./Chapter%208/) | *SUM*                                           | `Chapter 8 - Add.pbix`                                                       |
-|        | *DIVIDE*                                        | `Chapter 8 - Division.pbix`                                                  |
-|        | *IF*                                            | `Chapter 8 - Condition.pbix`                                                 |
-|        | *COUNT*                                         | `Chapter 8 - Count.pbix`                                                     |
-|        | *AVERAGE*                                       | `Chapter 8 - Average.pbix`                                                   |
-|        | *CONCATENATE*                                   | `Chapter 8 - Concatenate.pbix`                                               |
-|        | *Apply Conditional Formatting*                  | `Chapter 8 - Format.pbix`                                                    |
-| 🔬 [9](./Chapter%209/) | *Identify Outliers*                             | `Chapter 9 - Outliers.pbix`                                                  |
-|        | *Find Groups by Clustering*                     | `Chapter 9 - Clustering.pbix`                                                |
-| 📑 [10](./Chapter%2010/) | *Start a Report and Add a Title*                | `Chapter 10 - Start Report.pbix`                                             |
-|        | *Add Visuals to a Report*                       | `Chapter 10 - Report Visuals.pbix`                                           |
-|        | *Add Slicers to a Report*                       | `Chapter 10 - Slicers.pbix`                                                  |
-|        | *Control Visual Interactions*                   | `Chapter 10 - Interact.pbix`                                                 |
-|        | *Enable Drill-Through Actions*                  | `Chapter 10 - Drill-Through.pbix`                                            |
-|        | *Split a Page into Sections*                    | `Chapter 10 - Sections.pbix`                                                 |
-|        | *Add Bookmarks and Navigation*                  | `Chapter 10 - Bookmarks.pbix`                                                |
-| 💡 [11](./Chapter%2011/) | *Ask Questions About the Data (Q&A)*           | `Chapter 11 - Ask Questions.pbix`                                            |
-|        | *Publish a Report*                              | `Chapter 11 - Publish.pbix`                                                  |
-|        | *Set Up Row-Level Security*                     | `Chapter 11 - Security.pbix`                                                 |
+| Chapter | Key Task / Section                               | Corresponding File(s)                                                              |
+| :------ | :----------------------------------------------- | :--------------------------------------------------------------------------------- |
+| 📂 [Data](./Data%20Sets/) | General data sets used across multiple chapters  | `Data Sets/Financial Sample.xlsx`<br>`Data Sets/Retail Analysis Sample.pbix`      |
+| 📖 [1](./Chapter%201/) | *Deeper Concepts: Licenses & Storage* | `Chapter 1/README.md`                                                              |
+| 🔌 [2](./Chapter%202/) | *Connecting Power BI to Your Data* | Uses `Financial Sample.xlsx` (no specific start `.pbix`)                           |
+| 🧹 [3](./Chapter%203/) | *Remove Duplicate Values* | `Chapter 3 - Remove Duplicates.pbix`                                               |
+|         | *Replace Values in a Column* | `Chapter 3 - Replace Values.pbix`                                                  |
+|         | *Split a Column Using a Delimiter* | `Chapter 3 - Split Column.pbix`                                                    |
+|         | *Group Data* | `Chapter 3 - Group Data.pbix`                                                      |
+|         | *Add a Calculated Column* | `Chapter 3 - Calculated Column.pbix`                                               |
+|         | *Add an Index Column* | `Chapter 3 - Index Column.pbix`                                                    |
+| 🏗️ [4](./Chapter%204/) | *Create Dimension Tables* | `Chapter 4 - Dimension Tables.pbix`                                                |
+|         | *Create a Hierarchical Schema* | `Chapter 4 - Hierarchical Schema.pbix`                                             |
+| 📊 [5](./Chapter%205/) | *Create a Bar Chart* | `Chapter 5 - Bar Chart.pbix`                                                       |
+|         | *Apply Filters to Visuals* | `Chapter 5 - Apply Filters.pbix`                                                   |
+|         | *Format the Y-Axis of a Bar Chart* | `Chapter 5 - Format Y-Axis.pbix`                                                   |
+|         | *Format the X-Axis of a Bar Chart* | `Chapter 5 - Format X-Axis.pbix`                                                   |
+|         | *Add and Format the Data Category* | `Chapter 5 - Data Category.pbix`                                                   |
+|         | *Move a Bar Chart's Legend* | `Chapter 5 - Bar Legend.pbix`                                                      |
+|         | *Add a Zoom Slider and Update Bar Colors* | `Chapter 5 - Zoom Colors.pbix`                                                     |
+|         | *Add Data Labels to a Bar Chart* | `Chapter 5 - Data Labels.pbix`                                                     |
+|         | *Add an Image to the Plot Area* | `Chapter 5 - Plot Image.pbix`                                                      |
+|         | *Create a Line or Area Chart* | `Chapter 5 - Area Chart.pbix`                                                      |
+|         | *Format the Axes of a Line/Area Chart* | `Chapter 5 - Area Axes.pbix`                                                       |
+|         | *Add a Legend to a Line/Area Chart* | `Chapter 5 - Area Legend.pbix`                                                     |
+|         | *Move Legend and Add Gridlines* | `Chapter 5 - Area Gridlines.pbix`                                                  |
+|         | *Add Zoom Slider and Steps* | `Chapter 5 - Area Zoom.pbix`                                                       |
+|         | *Add Data Markers and Labels* | `Chapter 5 - Area Markers.pbix`                                                    |
+|         | *Format Data Labels of a Line/Area Chart* | `Chapter 5 - Area Labels.pbix`                                                     |
+| 📐 [6](./Chapter%206/) | *Create and Format a Gauge Chart* | `Chapter 6 - Gauge.pbix`                                                           |
+|         | *Create and Format a KPI Visual* | `Chapter 6 - KPI.pbix`                                                             |
+|         | *Create a Matrix Visual* | `Chapter 6 - Matrix.pbix`                                                          |
+|         | *Format a Matrix Visual* | `Chapter 6 - Matrix Format.pbix`                                                   |
+|         | *Format Values and Column Headers* | `Chapter 6 - Matrix Values.pbix`                                                   |
+|         | *Format Row Headers* | `Chapter 6 - Matrix Rows.pbix`                                                     |
+|         | *Format Subtotals and Grand Totals* | `Chapter 6 - Matrix Totals.pbix`                                                   |
+|         | *Format Specific Column and Cell Elements* | `Chapter 6 - Matrix Elements.pbix`                                                 |
+|         | *Create a Waterfall Chart* | `Chapter 6 - Waterfall.pbix`                                                       |
+|         | *Format a Waterfall Chart* | `Chapter 6 - Waterfall Format.pbix`                                                |
+|         | *Format X-Axis and Legend* | `Chapter 6 - Waterfall Legend.pbix`                                                |
+|         | *Add and Format Breakdowns* | `Chapter 6 - Waterfall Breakdown.pbix`                                             |
+|         | *Create, Format, and Label a Funnel Chart* | `Chapter 6 - Funnel.pbix`                                                          |
+|         | *Create a Pie or Donut Chart* | `Chapter 6 - Pie.pbix`                                                             |
+|         | *Format a Pie or Donut Chart* | `Chapter 6 - Pie Format.pbix`                                                      |
+|         | *Create a Treemap Chart* | `Chapter 6 - Treemap.pbix`                                                         |
+|         | *Format a Treemap Chart* | `Chapter 6 - Treemap Format.pbix`                                                  |
+| 🗺️ [7](./Chapter%207/) | *Create a Proportional Symbol Map* | `Chapter 7 - Proportional.pbix`                                                    |
+|         | *Create a Choropleth Map* | `Chapter 7 - Choropleth.pbix`                                                      |
+|         | *Create an Isarithmic Map* | `Chapter 7 - Isarithmic.pbix`                                                      |
+|         | *Create a Skyscraper Map* | `Chapter 7 - Skyscraper.pbix`                                                      |
+| 🧮 [8](./Chapter%208/) | *Advanced DAX Concepts Guide* | `Chapter 8/README.md`                                                              |
+|         | *SUM* | `Chapter 8 - Add.pbix`                                                             |
+|         | *DIVIDE* | `Chapter 8 - Division.pbix`                                                        |
+|         | *IF* | `Chapter 8 - Condition.pbix`                                                       |
+|         | *COUNT* | `Chapter 8 - Count.pbix`                                                           |
+|         | *AVERAGE* | `Chapter 8 - Average.pbix`                                                         |
+|         | *CONCATENATE* | `Chapter 8 - Concatenate.pbix`                                                     |
+|         | *Apply Conditional Formatting* | `Chapter 8 - Format.pbix`                                                          |
+| 🔬 [9](./Chapter%209/) | *Identify Outliers* | `Chapter 9 - Outliers.pbix`                                                        |
+|         | *Find Groups by Clustering* | `Chapter 9 - Clustering.pbix`                                                      |
+| 📑 [10](./Chapter%2010/) | *Start a Report and Add a Title* | `Chapter 10 - Start Report.pbix`                                                   |
+|         | *Add Visuals to a Report* | `Chapter 10 - Report Visuals.pbix`                                                 |
+|         | *Add Slicers to a Report* | `Chapter 10 - Slicers.pbix`                                                        |
+|         | *Control Visual Interactions* | `Chapter 10 - Interact.pbix`                                                       |
+|         | *Enable Drill-Through Actions* | `Chapter 10 - Drill-Through.pbix`                                                  |
+|         | *Split a Page into Sections* | `Chapter 10 - Sections.pbix`                                                       |
+|         | *Add Bookmarks and Navigation* | `Chapter 10 - Bookmarks.pbix`                                                      |
+| 🔒 [11](./Chapter%2011/) | *Advanced Sharing & Security Guide* | `Chapter 11/README.md`                                                             |
+|         | *Ask Questions About the Data (Q&A)* | `Chapter 11 - Ask Questions.pbix`                                                  |
+|         | *Publish a Report* | `Chapter 11 - Publish.pbix`                                                        |
+|         | *Set Up Row-Level Security* | `Chapter 11 - Security.pbix`                                                       |
 
 </details>
 
