@@ -1,8 +1,6 @@
 # Teach Yourself VISUALLY Power BI - Supplementary Material
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Open Issues](https://img.shields.io/github/issues/aloth/power-bi-book-resources)](https://github.com/aloth/power-bi-book-resources/issues)
-[![GitHub Stars](https://img.shields.io/github/stars/aloth/power-bi-book-resources?style=social)](https://github.com/aloth/power-bi-book-resources/stargazers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Companion Website](https://img.shields.io/badge/Companion%20Site-alexloth.com-blue)](https://alexloth.com/power-bi-book/)
 [![Follow on X](https://img.shields.io/twitter/follow/VisAnalyticsNYC?style=social)](https://x.com/VisAnalyticsNYC)
 
@@ -188,7 +186,7 @@ power-bi-book-resources/
 
 ## About the Author
 
-**Alexander Loth** is a Data Scientist and Digital Strategist with over 14 years of experience in AI, Data & Cloud.  
+**Alexander Loth** is a Data Scientist and Digital Strategist with over 15 years of experience in AI, Data & Cloud.  
 His career began at CERN and includes leadership roles at Microsoft, Tableau, and SAP. Today, he advises companies and organizations on their digital transformation journeys and is the author of several bestselling books.
 
 [![Website](https://img.shields.io/badge/Website-alexloth.com-blue?style=flat-square)](https://alexloth.com/)
@@ -199,15 +197,16 @@ His career began at CERN and includes leadership roles at Microsoft, Tableau, an
 
 ## How to Cite
 
-If these materials help your work, please cite:
+If you reference the book or materials, please use the following BibTeX entry to cite the book:
 
 ```bibtex
-@book{Loth2023,
-  author    = {Alexander Loth},
-  title     = {Teach Yourself VISUALLY Power BI},
-  publisher = {John Wiley \& Sons, Inc.},
-  year      = {2023},
-  isbn      = {978-1-119-90377-2}
+@book{loth_2023_powerbi,
+	title        = {Teach Yourself VISUALLY Power BI},
+	author       = {Loth, Alexander},
+	year         = {2023},
+	publisher    = {John Wiley \& Sons, Inc.},
+	isbn         = {978-1-119-90377-2},
+	url          = {https://alexloth.com/power-bi-book/}
 }
 ```
 
