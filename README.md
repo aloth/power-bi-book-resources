@@ -11,7 +11,7 @@
   <img src="https://alexloth.com/wp-content/uploads/2023/04/Teach-Yourself-VISUALLY-Power-BI-book-cover-1024x944.png" alt="Teach Yourself VISUALLY Power BI book cover" width="420" />
 </p>
 
-**Buy the book:** [Wiley](https://www.wiley.com/en-us/Teach+Yourself+VISUALLY+Power+BI-p-9781119903772) · [Amazon]([https://www.amazon.com/Teach-Yourself-VISUALLY-Power-BI/dp/1119903774/](https://www.amazon.com/Teach-Yourself-VISUALLY-Power-Tech/dp/1119903777)) · More info on the [companion site](https://alexloth.com/power-bi-book/)
+**Buy the book:** [Wiley](https://www.wiley.com/en-us/Teach+Yourself+VISUALLY+Power+BI-p-9781119903772) · [Amazon](https://www.amazon.com/Teach-Yourself-VISUALLY-Power-Tech/dp/1119903777) · More info on the [companion site](https://alexloth.com/power-bi-book/)
 
 ---
 
@@ -54,6 +54,14 @@ git clone https://github.com/aloth/power-bi-book-resources.git
 
 * **Microsoft Power BI Desktop (Windows, free):** [https://powerbi.microsoft.com/desktop/](https://powerbi.microsoft.com/desktop/)
   Installation is covered in Chapter 1 of the book.
+
+---
+
+## 🎁 Exclusive Partner Offers
+
+As a reader of the book, you get access to special offers from our partners. Check out the link below for exclusive deals designed to enhance your learning journey.
+
+➡️ **[View Exclusive Partner Offers](./EXCLUSIVE_OFFERS.md)**
 
 ---
 
