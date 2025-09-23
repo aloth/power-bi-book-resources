@@ -1,6 +1,6 @@
 # Teach Yourself VISUALLY Power BI - Supplementary Material
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
 [![Companion Website](https://img.shields.io/badge/Companion%20Site-alexloth.com-blue)](https://alexloth.com/power-bi-book/)
 [![Follow on X](https://img.shields.io/twitter/follow/VisAnalyticsNYC?style=social)](https://x.com/VisAnalyticsNYC)
 
@@ -227,14 +227,14 @@ You can also link the companion site: [https://alexloth.com/power-bi-book/](http
 This repository serves as a learning resource for the book.
 
 * Found a problem or have a question? **[Open an issue](https://github.com/aloth/power-bi-book-resources/issues)**.
-* Minor fixes (typos, clarifications) are welcome via pull requests.
 
 ---
 
 ## License
 
+This work is licensed under a [Creative Commons Attribution 4.0 International License](LICENSE).
 
-This repository is released under the **MIT License**. You’re free to use, modify, and distribute the materials with attribution. See [LICENSE](LICENSE) for details.
+[![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](LICENSE).
 
 ---
 
