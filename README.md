@@ -208,13 +208,15 @@ His career began at CERN and includes leadership roles at Microsoft, Tableau, an
 If you reference the book or materials, please use the following BibTeX entry to cite the book:
 
 ```bibtex
-@book{loth_2023_powerbi,
-	title        = {Teach Yourself VISUALLY Power BI},
-	author       = {Loth, Alexander},
-	year         = {2023},
-	publisher    = {John Wiley \& Sons, Inc.},
-	isbn         = {978-1-119-90377-2},
-	url          = {https://alexloth.com/power-bi-book/}
+@book{loth2023visually,
+  title      = {Teach Yourself VISUALLY Power BI},
+  shorttitle = {VISUALLY Power BI},
+  author     = {Loth, Alexander},
+  year       = {2023},
+  publisher  = {Wiley},
+  address    = {Hoboken, NJ},
+  isbn       = {978-1-119-90377-2},
+  url        = {https://alexloth.com/power-bi-book/}
 }
 ```
 
