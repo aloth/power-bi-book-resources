@@ -228,7 +228,11 @@ You can also link the companion site: [https://alexloth.com/power-bi-book/](http
 
 This repository serves as a learning resource for the book.
 
-* Found a problem or have a question? **[Open an issue](https://github.com/aloth/power-bi-book-resources/issues)**.
+Found a problem or have a question? Use our issue templates:
+
+* 📖 **[Report an Erratum](https://github.com/aloth/power-bi-book-resources/issues/new?template=erratum.yml)** — errors in the book
+* ❓ **[Ask a Question](https://github.com/aloth/power-bi-book-resources/issues/new?template=question.yml)** — questions about chapters or examples
+* 💻 **[Report a Code Issue](https://github.com/aloth/power-bi-book-resources/issues/new?template=code-issue.yml)** — problems with companion files
 
 ---
 
