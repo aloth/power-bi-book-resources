@@ -3,6 +3,7 @@
 [![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
 [![Companion Website](https://img.shields.io/badge/Companion%20Site-alexloth.com-blue)](https://alexloth.com/power-bi-book/)
 [![Follow on X](https://img.shields.io/twitter/follow/VisAnalyticsNYC?style=social)](https://x.com/VisAnalyticsNYC)
+[![Data Modeling & Star Schema](https://img.shields.io/badge/Data_Modeling_%26_Star_Schema-Chapter_4-F2C811)](Chapter%204)
 
 > Official companion repository for **_Teach Yourself VISUALLY Power BI_** by **Alexander Loth** (Wiley).  
 > Use these sample datasets and `.pbix` files to follow along, experiment, and adapt the book’s examples to your own data.
