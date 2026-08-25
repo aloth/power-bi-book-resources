@@ -199,6 +199,7 @@ power-bi-book-resources/
 His career began at CERN and includes leadership roles at Microsoft, Tableau, and SAP. Today, he advises companies and organizations on their digital transformation journeys and is the author of several bestselling books.
 
 [![Website](https://img.shields.io/badge/Website-alexloth.com-blue?style=flat-square)](https://alexloth.com/)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--9327--6865-green?style=flat-square&logo=orcid)](https://orcid.org/0009-0003-9327-6865)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aloth-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aloth/)
 [![X (Twitter)](https://img.shields.io/badge/Follow-@xlth-black?style=flat-square&logo=x)](https://x.com/xlth)
 
@@ -237,6 +238,22 @@ Found a problem or have a question? Use our issue templates:
 * 💻 **[Report a Code Issue](https://github.com/aloth/power-bi-book-resources/issues/new?template=code-issue.yml)** — problems with companion files
 
 ---
+
+## 📚 More books by the author
+
+Companion repositories for the other books:
+
+| Book | Publisher |
+|:---|:---|
+| [Content Creation mit generativer KI](https://github.com/aloth/Generative-KI-Buch-Begleitmaterialien) | mitp 2026 |
+| [KI für Content Creation](https://github.com/aloth/KI-Buch-Begleitmaterialien) | mitp 2024 |
+| [Microsoft Power BI: Das Praxisbuch](https://github.com/aloth/Power-BI-Fabric-Copilot-Buch-Begleitmaterialien) | mitp 2026 |
+| [Datenvisualisierung mit Power BI](https://github.com/aloth/Power-BI-Buch-Begleitmaterialien) | mitp 2022 |
+| [Datenvisualisierung mit Tableau](https://github.com/aloth/Tableau-Buch-Begleitmaterialien) | mitp 2021 |
+| [Visual Analytics with Tableau](https://github.com/aloth/tableau-book-resources) | Wiley 2019 |
+| [Decisively Digital](https://github.com/aloth/decisively-digital-book-resources) | Wiley 2021 |
+
+**Note:** [Microsoft Power BI: Das Praxisbuch](https://github.com/aloth/Power-BI-Fabric-Copilot-Buch-Begleitmaterialien) is the German-language Power BI book.
 
 ## License
 
