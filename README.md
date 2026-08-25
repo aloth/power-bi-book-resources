@@ -210,14 +210,15 @@ If you reference the book or materials, please use the following BibTeX entry to
 
 ```bibtex
 @book{loth2023visually,
-  title      = {Teach Yourself VISUALLY Power BI},
+  title      = {Teach Yourself {VISUALLY} {Power BI}},
   shorttitle = {VISUALLY Power BI},
   author     = {Loth, Alexander},
   year       = {2023},
   publisher  = {Wiley},
-  address    = {Hoboken, NJ},
+  address    = {Hoboken, NJ, USA},
   isbn       = {978-1-119-90377-2},
-  url        = {https://alexloth.com/power-bi-book/}
+  url        = {https://alexloth.com/power-bi-book/},
+  urldate    = {2026-08-25}
 }
 ```
 
