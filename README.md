@@ -16,7 +16,17 @@
 
 ---
 
+## Who this is for
+
+* **Visual learners** who prefer step-by-step screenshots over dense prose.
+* **Business users & analysts** building their first reports and dashboards in Power BI.
+* **Excel users** moving to Power BI and looking for a guided path.
+* **Anyone** starting out with Power BI - no DAX, modeling or coding experience required.
+
+---
+
 ## Table of Contents
+- [Who this is for](#who-this-is-for)
 - [What’s Included](#whats-included)
 - [Quick Start](#quick-start)
 - [Prerequisites](#prerequisites)
