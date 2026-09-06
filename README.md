@@ -263,7 +263,7 @@ Companion repositories for the other books:
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](LICENSE).
 
-[![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](LICENSE).
+[![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](LICENSE).
 
 ---
 
